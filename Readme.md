@@ -13,9 +13,7 @@
 演示地址：[https://fang.gitapp.cn](https://fang.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_fang
 
 
 ## 主要功能
